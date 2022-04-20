@@ -1,0 +1,14 @@
+{
+  "name": "pdf-text-extract",
+  "version": "1.0.0",
+  "description": "extract text from PDFs using pdf.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pdfjs-dist": "^2.12.313"
+  }
+}
